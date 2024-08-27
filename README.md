@@ -10,6 +10,7 @@
 # RP2350-Eins Project
 
 The **RP2350-Eins** project aims to create a replacement for the Arduino UNO R3 or Arduino M0 using the RP2350 MCU.
+This project was born as a continuation my previous project, [RP2040-Eins](https://github.com/red-scorp/RP2040-Eins), which was based on the Raspberry Pi RP2040 MCU.
 
 ## RP2350-Eins Board
 
@@ -79,7 +80,7 @@ This board exists in a single LDO-based flavor. If you want to use a Buck-based 
 
 Each version of the board listed below is tagged in the repository. You can use the tag to checkout the repository to the specific version.
 
-### v1.0b1 - 24.08.2024
+### v1.0b1 - xx.xx.2024
 
 ![v1.0b1 board preview](img/v1.0b1.png)
 
