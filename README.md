@@ -90,7 +90,7 @@ Initial release for testing purposes.
 
 - [Raspberry Pi RP2350 information page](https://www.raspberrypi.com/documentation/microcontrollers/silicon.html#rp2350).
 - [Arduino UNO R3 information page](https://docs.arduino.cc/retired/boards/arduino-uno-rev3-with-long-pins).
-- [Arduino SDK for RP2350 board](https://github.com/earlephilhower/arduino-pico).
+- [Arduino SDK for RP2040/RP2350 board](https://github.com/earlephilhower/arduino-pico).
 
 ## How to Help
 
