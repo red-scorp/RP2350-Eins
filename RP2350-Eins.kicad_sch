@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "RP2350-Eins-0010")
-		(date "2024-08-24")
+		(date "2024-09-14")
 		(rev "1.0")
 		(company "(c) 2024 Andriy Golovnya")
 		(comment 1 "RP2350 based board with Arduino Uno footprint")
